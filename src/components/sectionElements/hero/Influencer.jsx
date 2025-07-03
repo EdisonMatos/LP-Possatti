@@ -21,7 +21,7 @@ export default function Influencer({ appDownloadButtons }) {
         }}
       >
         <div className="relative z-10 flex w-full bg-colorBlack bg-opacity-0 items-left">
-          <div className="w-full text-secondary justify-evenly">
+          <div className="w-full text-labelButtons justify-evenly">
             <div className="h-[100px] desktop1:h-[140px]" />
             <div className="flex flex-col-reverse gap-[10px] desktop1:flex-row desktop1:justify-between mx-auto w-[90%] max-w-[1215px] items-center pb-[64px] pt-[40px] desktop1:pt-[0px] desktop1:pb-[0px]">
               <div className="flex  flex-col w-full desktop1:w-[50%] desktop1:mr-[20px]  ">
@@ -128,7 +128,7 @@ export default function Influencer({ appDownloadButtons }) {
 
           <SectionWrapper>
             <div className="relative z-10 flex w-full items-left pt-[36px] desktop1:py-[90px] desktop2:pb-[90px] ">
-              <div className="w-full text-secondary ">
+              <div className="w-full text-labelButtons ">
                 <div className="h-[100px] desktop1:h-[140px]" />
                 <div className="flex flex-col-reverse gap-[40px] desktop1:flex-row desktop1:justify-between w-full items-center pb-[64px] pt-[40px] desktop1:pt-[0px] desktop1:pb-[0px]">
                   <div className="flex flex-col w-full desktop1:w-[50%] ">
