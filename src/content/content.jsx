@@ -127,8 +127,8 @@ const content = {
       miniTag: "ESCOLA DE JIU-JITSU EM VILA VELHA - ES",
       title: (
         <h1 className="mb-[16px]">
-          Jiu-Jitsu para todos os níveis
-          <span className="text-primary"></span>
+          Jiu-Jitsu
+          <span className="text-primary"> para todos </span>os níveis
         </h1>
       ),
       subtitle:
