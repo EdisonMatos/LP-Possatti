@@ -260,7 +260,7 @@ const content = {
       },
       card3: {
         img: featuresImg3,
-        title: "Aulas para Kids",
+        title: "Aulas para crianças",
         subtitle: "Jiu-jitsu infantil para meninos e meninas",
         description: (
           <div>
