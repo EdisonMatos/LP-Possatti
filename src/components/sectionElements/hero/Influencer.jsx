@@ -103,7 +103,7 @@ export default function Influencer({ appDownloadButtons }) {
                 </div>
               </div>
               <div className="flex justify-center w-full tablet1:w-full desktop1:w-[35%] ">
-                <MotionDivRightToLeft className="relative flex items-end justify-center w-full desktop2:justify-end">
+                <MotionDivRightToLeft className="relative mb-12 flex items-end justify-center w-full desktop2:justify-end">
                   <img
                     src={content.texts.hero.heroImgPhone}
                     className="h-[100%] relative desktop1:hidden"
